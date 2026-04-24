@@ -1,5 +1,7 @@
 # 💰 Sales Performance Analytics - Multi-Theme Series
 
+<img width="800" height="448" alt="ScreenRecording2026-03-23173650-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/aaf761ae-c07f-408c-9a0d-a435eebf680f" />
+
 ## 📊 Business Case & Overview
 In today’s data-driven world, a single view isn't always enough. This project showcases a comprehensive sales analysis built to help stakeholders monitor business health across different regions and product lines. By using multiple visual themes, I demonstrate how data can be tailored to match any corporate identity while maintaining high functional standards.
 
@@ -33,9 +35,6 @@ To ensure data accuracy and visual impact, I followed these steps:
   </tr>
 </table>
 
-## 🎥 Interactive Demo
-
-<img width="800" height="448" alt="ScreenRecording2026-03-23173650-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/aaf761ae-c07f-408c-9a0d-a435eebf680f" />
 
 ---
 **📫 Let's Connect!**
